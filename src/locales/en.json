@@ -1,0 +1,25 @@
+{
+    "navbar": {
+      "home": "Home",
+      "products": "Products",
+      "contact": "Contact Us",
+      "faq": "FAQ",
+      "login": "Login",
+      "myAccount": "My Account",
+      "cart": "Cart"
+    },
+    "footer": {
+      "copyright": "© 2024 E-Commerce",
+      "terms": "Terms & Conditions",
+      "privacy": "Privacy Policy"
+    },
+    "common": {
+      "loading": "Loading...",
+      "errorOccurred": "An error has occurred.",
+      "goBack": "Go Back"
+    },
+    "chatWidget": {
+      "chatWithUs": "Chat with us!"
+    }
+  }
+  
